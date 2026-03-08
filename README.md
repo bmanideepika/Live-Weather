@@ -7,17 +7,17 @@ This project demonstrates API integration, asynchronous JavaScript, and responsi
 
 **Features**
 
--Search weather by **city name**
+- Search weather by **city name**
 
--Displays **temperature, humidity, wind speed**
+- Displays **temperature, humidity, wind speed**
 
--Shows **weather conditions and icons**
+- Shows **weather conditions and icons**
 
--Real-time data using **OpenWeatherMap API**
+- Real-time data using **OpenWeatherMap API**
 
--Fully **responsive design**
+- Fully **responsive design**
 
--Clean UI with **Google Fonts and Bootstrap**
+- Clean UI with **Google Fonts and Bootstrap**
 
 **Technologies Used**
 
