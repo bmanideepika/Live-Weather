@@ -21,14 +21,14 @@ This project demonstrates API integration, asynchronous JavaScript, and responsi
 
 **Technologies Used**
 
--HTML5 – Page structure
+- HTML5 – Page structure
 
--CSS3 – Styling and layout
+- CSS3 – Styling and layout
 
--Bootstrap – Responsive design
+- Bootstrap – Responsive design
 
--JavaScript (ES6) – Application logic
+- JavaScript (ES6) – Application logic
 
--jQuery – DOM manipulation
+- jQuery – DOM manipulation
 
--OpenWeatherMap API – Weather data
+- OpenWeatherMap API – Weather data
