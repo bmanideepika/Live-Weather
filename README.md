@@ -1,4 +1,4 @@
-**🌦️ Live Weather App**
+**Live Weather App**
 
 A real-time weather reporting web application that fetches live weather data using the OpenWeatherMap API.
 The application allows users to search for any city and instantly view the current weather conditions.
